@@ -1317,10 +1317,10 @@ Vnum	LocalizedName
 33007	فقير جائع
 33008	مهووس القرع
 33009	مذبح الدم
-33010	Rubin Alchemist [NEEDS TRANSLATION]
-33011	Garnet Alchemist [NEEDS TRANSLATION]
-33012	Smaragd Alchemist [NEEDS TRANSLATION]
-33013	Sapphire Alchemist [NEEDS TRANSLATION]
+33010	رجل الثلج
+33011	كيميائي العقيق
+33012	كيميائي الزمرد
+33013	كيميائي الياقوت الأزرق
 34001	عنقاء النار
 34002	صغير الرنة
 34003	عنقاء الثلج

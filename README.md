@@ -9,9 +9,16 @@ This repository contains the core server files and configurations. It includes f
 ## 📋 Changelog
 
 ### 🐛 Bug Fixes
-* **Dragon stone antiflags**: Dragon stone items with grade between Rough and Rare are no longer tradable, droppable or sellable (consistency with the official).
-* **Dragonsoul Qualification**: Minimum level hardcoded in the checks for qualification.
-* **Item Proto**: Some affect item values adjusted, minor translation improvements
+* **Adjusted character name max length for the `guild_comment` table**: Went from `varchar(8)` to `varchar(24)` so the whole name fits in the database table.
+
+**RUN THE MIGRATION FILE IN `/sql/migrations/MR-18` IF YOU ARE UPDATING AN EXISTING PROJECT!**
+
+<br>
+
+### ⬆️ Improvements
+* **Added server translations for Arabic and Brazilian Portugese**: Arabic is **NOT** 100% complete (help is welcome!)
+* **Improved Arabic item names**
+* **Added item and mob names for Brazilian Portugese**
 
 <br>
 <br>
